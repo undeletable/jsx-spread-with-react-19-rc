@@ -14,7 +14,6 @@ function App() {
       }}
     >
       <button
-        disabled={!isCountButtonActive}
         {...(isCountButtonActive && {
           onClick: () => setCount(currentCount => currentCount + 1)
         })}
