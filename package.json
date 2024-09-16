@@ -10,8 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "19.0.0-rc-fb9a90fa48-20240614",
-    "react-dom": "19.0.0-rc-fb9a90fa48-20240614"
+    "react": "19.0.0-rc-206df66e-20240912",
+    "react-dom": "19.0.0-rc-206df66e-20240912"
   },
   "devDependencies": {
     "@babel/preset-react": "^7.24.7",
